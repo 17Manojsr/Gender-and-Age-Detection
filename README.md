@@ -1,5 +1,6 @@
 # Gender-and-Age-Detection
 Introduction
+
 This project aims to detect the gender and age of a person from an image using machine learning algorithms in Python. The project is implemented using the Scikit-Learn library, which is a popular machine learning library in Python.
 
 Requirements
